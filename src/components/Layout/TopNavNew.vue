@@ -19,7 +19,7 @@
                     </span>
                     <ul class="drop-menu" :class="{ active2: active2 }" @click="toggle">
                         <li>
-                            <router-link to="/watercolour"><a href="#" class="nav-links" @click="toggle2">Watercolour</a></router-link>
+                            <router-link to="/watercolour"><a href="#" class="nav-links" @click="toggle2">watercolour</a></router-link>
                         </li>
                         <li>
                             <router-link to="/acrylic"><a href="#" class="nav-links" @click="toggle2">Acrylic</a></router-link>
