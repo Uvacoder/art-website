@@ -6,10 +6,7 @@
                 <div class="info">
                     <p>
                       Hi, I am Megan Risebrough, a freelance artist who works in
-                      several mediums as shown below. Feel free to check out my
-                      work in each medium and if you like what you see, I am
-                      available for commission. Contact me by email or checkout
-                      my etsy.
+                      several mediums as shown below.
                     </p>
                     <p>mnjart24@gmail.com</p>
                 </div>
@@ -52,7 +49,7 @@
             </div>
             <div>
                 <p>Copyright &#169; 2020 MNJaRt - All Rights Reserved.</p>
-                <p>Website designed and developed by Megan Risebrough</p>
+                <p>website Designed and developed by Megan Risebrough</p>
             </div>
         </div>
     </footer>
